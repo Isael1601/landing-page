@@ -1,0 +1,32 @@
+.jumbotron {
+    background-image: url("../assets/portada.svg");
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    box-shadow: rgb(0, 0, 0, 0.5) 0px 5px 5px, rgb(0, 0, 0, 0.5) 0px 5px 5px ;
+    width: 96%;
+    height: 300px;
+    margin: 4% 2%;
+    margin-top: 0;
+    border-radius: 10px;
+    text-align: start;
+    padding-top: 10%;
+    padding-right: 45%;
+}
+
+.servicios {
+    background-image: url("../assets/servicios.svg");
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    box-shadow: rgb(0, 0, 0, 0.5) 0px 5px 5px, rgb(0, 0, 0, 0.5) 0px 5px 5px ;
+    width: 96%;
+    height: 300px;
+    margin: 4% 2%;
+    margin-top: 0;
+    border-radius: 10px;
+    text-align: start;
+    font-style: none;
+    padding-top: 5%;
+    padding-left: 65%;
+}
